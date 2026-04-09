@@ -1,0 +1,16 @@
+data/raw/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+models/*.joblib
+reports/*.html
+reports/*.csv
+*.log
+.DS_Store
